@@ -1,0 +1,11 @@
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.chadclose.sectionalclickablezoomimageview.SectionalClickableZoomImageView
+        android:id="@+id/scziv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>
